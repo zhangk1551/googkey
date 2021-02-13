@@ -1,6 +1,6 @@
 {
         "name": "Googkey",
-        "version": "0.2",
+        "version": "1.0",
         "description": "Search google for the selected text with a shortcut.",
         "icons": {
                 "16": "image/icon16.png",
